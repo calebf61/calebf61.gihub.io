@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+
+}
+body{
+    font-family: 'Assistant', sans-serif;
+    
+}
+.navbar{
+    background-color: rgb(60, 197, 140);
+
+}
+.navbar-brand{
+    font-weight: 600;
+    font-size: 2rem;
+    color: white;
+    margin-right: 50px;
+    margin-left: 20px;
+}
+#searchBtn{
+    color: white;
+
+    border-color: white;
+}
+nav {
+    color: white;
+} 
+.navbar-nav li a{
+    margin-right: 20px;
+    color: black;
+    font-size: larger;
+}
